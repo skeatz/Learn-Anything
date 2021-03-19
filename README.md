@@ -139,5 +139,6 @@
   - [Computer Aided Design & Digital Fabrication](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/computer-aided-design-digital-fabrication)
   - [Computer Controlled Machining](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/computer-controlled-machining)
   - Smart Electronics & IoT (need to confirm name, info on my notebook back in SP)
+
 ## Craftsman/Engineer
 - [Fab Academy Diploma](http://fabacademy.org/about/program.html)
