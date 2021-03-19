@@ -80,6 +80,7 @@
     - Microbit: makecode
     - Arduino: ardublock, scratch
     - Robotics
+    - Drones
     - Tinkercad Circuits
     - Simple sensors, actuators
   - Programming
@@ -109,7 +110,8 @@
     - ESP8266/ESP32
     - Raspberry Pi
     - Robotics
-    - input/output devices & interfacing
+    - Drones
+    - interfacing with sensors & actuators
   - Programming
 	- python
 	- AI/ML
@@ -125,5 +127,13 @@
   - Large Format Machining
 
 ## Qualified Technician
-
+- SP poly-wide electives modules (Digital Fabrication & Prototyping Fundamentals, Further Digital Fabrication & Prototyping),reorganized as 3 or 4 modules?
+  - Digital Fabrication & Prototyping I
+  - Digital Fabrication & Prototyping II
+  - Digital Fabrication & Prototyping III 
+- SP PACE (SSG supported) modules?
+  - [Computer Aided Design & Digital Fabrication](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/computer-aided-design-digital-fabrication)
+  - [Computer Controlled Machining](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/computer-controlled-machining)
+  - Smart Electronics & IoT (need to confirm name, info on my notebook back in SP)
 ## Craftsman/Engineer
+- [Fab Academy Diploma](http://fabacademy.org/about/program.html)
