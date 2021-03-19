@@ -127,7 +127,11 @@
   - Large Format Machining
 
 ## Qualified Technician
-- SP poly-wide electives modules (Digital Fabrication & Prototyping Fundamentals, Further Digital Fabrication & Prototyping),reorganized as 3 or 4 modules?
+- SP poly-wide electives modules reorganized as 3 or 4 modules?
+- module topics links:
+  - [Digital Fabrication & Prototyping Fundamentals](ep1000.md)
+  - [Further Digital Fabrication & Prototyping](ep1001.md)
+- re-structured modules:
   - Digital Fabrication & Prototyping I
   - Digital Fabrication & Prototyping II
   - Digital Fabrication & Prototyping III 
