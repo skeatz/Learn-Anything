@@ -67,6 +67,30 @@
 - [Fablab Guide](https://issuu.com/j_johns/docs/bu_fablabs_document_final?e=35968760/66510214)
 - [Makerbot Educators Guidebook](https://www.makerbot.com/stories/3d-printing-education/educators-guidebook-full-version-free-download/)
  
+## Why Digital Fabrication
+- [What do people learn](http://fablearn.stanford.edu/fellows/blog/what-do-people-learn-using-digital-fabrication-tools)
+- [A Strategist's Guide to Digital Fabrication](https://www.strategy-business.com/article/11307?gko=a8250)
+- [Never too late to learn digital fabrication](https://www.makery.info/en/2019/07/22/sinitier-a-la-fabrication-numerique-une-formation-a-succes/)
+- [Digital design & fabrication in education](http://edutechwiki.unige.ch/en/Digital_design_and_fabrication_in_education)
+- [Fabricating the future of work](https://makezine.com/2021/02/17/fabricating-the-future-of-work/)
+- [Deloitte - Future of Work in Manufacturing](https://www2.deloitte.com/us/en/insights/industry/manufacturing/future-of-work-manufacturing-jobs-in-digital-era.html)
+- [Digital Fabrication & the Future of Work](http://cba.mit.edu/docs/papers/19.01.POW.pdf)
+- [How Manufacturing can thrive in a digital world](https://www.weforum.org/agenda/2020/01/factories-of-the-future-innovation-manufacturing/)
+- [Digital Fabrication & the future of Architecture](https://designbuild.nridigital.com/design_build_review_apr20/arthur_mamou-mani_digital_fabrication_future_architecture)
+- [The future of digital fabrication](https://www.youtube.com/watch?v=TggiXmhmDmM&feature=emb_logo)
+- Poverty Alleviation
+  - [Digitally Enabled Economic Transformation & Poverty Reduction](https://www.arup.com/perspectives/digital-fabrication-the-new-normal-east-asia)
+  - [Will Digital Fabrication deliver for the World's Poor?](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjd-b7kpMPvAhVW7XMBHZErBDMQFjADegQIAxAD&url=https%3A%2F%2Fwww.brookings.edu%2Fwp-content%2Fuploads%2F2015%2F08%2Fwladawskybergerwillthedigitalrevoltiondeliver.pdf&usg=AOvVaw0TwlYjr8i2RaNaQfOb50Qm)
+  - [Benefitting from the digital economy](Benefiting from the Digital Economy)
+  - [EU: digitalisation for development - reducing poverty through technology](https://www.europarl.europa.eu/doceo/document/A-8-2018-0338_EN.pdf)
+  - [How digital technology contributes to poverty reduction in China](http://www.cikd.org/English/detail?leafId=217&docId=1573)
+  - [UN Expert Group meeting on eradicating rural poverty](https://www.un.org/development/desa/dspd/wp-content/uploads/sites/22/2019/04/DraftReport-EGM-Rural-Poverty2019.pdf)
+
+## Singapore Sites w/DF Courses
+- [ITE - Introduction to Digital Fabrication](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-digital-fabrication)
+- [ITE - Digital Fabrication for Prototyping](https://www.ite.edu.sg/courses/course-finder/course/coc-in-digital-fabrication-for-prototyping)
+- [Digital Fabrication Space at SSC](https://www.ite.edu.sg/courses/course-finder/course/coc-in-digital-fabrication-for-prototyping)
+
 # Programs
 ## Novice Learner
 - Skills
