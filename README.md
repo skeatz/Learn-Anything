@@ -85,7 +85,7 @@
 - [Digital Fabrication & the Future of Work](http://cba.mit.edu/docs/papers/19.01.POW.pdf)
 - [How Manufacturing can thrive in a digital world](https://www.weforum.org/agenda/2020/01/factories-of-the-future-innovation-manufacturing/)
 - [Digital Fabrication & the future of Architecture](https://designbuild.nridigital.com/design_build_review_apr20/arthur_mamou-mani_digital_fabrication_future_architecture)
-- - Poverty Alleviation
+- Poverty Alleviation
   - [Digitally Enabled Economic Transformation & Poverty Reduction](https://www.arup.com/perspectives/digital-fabrication-the-new-normal-east-asia)
   - [Will Digital Fabrication deliver for the World's Poor?](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjd-b7kpMPvAhVW7XMBHZErBDMQFjADegQIAxAD&url=https%3A%2F%2Fwww.brookings.edu%2Fwp-content%2Fuploads%2F2015%2F08%2Fwladawskybergerwillthedigitalrevoltiondeliver.pdf&usg=AOvVaw0TwlYjr8i2RaNaQfOb50Qm)
   - [World Bank - Benefiting from the digital economy](https://openknowledge.worldbank.org/handle/10986/30926)
