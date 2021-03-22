@@ -81,7 +81,7 @@
 - Poverty Alleviation
   - [Digitally Enabled Economic Transformation & Poverty Reduction](https://www.arup.com/perspectives/digital-fabrication-the-new-normal-east-asia)
   - [Will Digital Fabrication deliver for the World's Poor?](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjd-b7kpMPvAhVW7XMBHZErBDMQFjADegQIAxAD&url=https%3A%2F%2Fwww.brookings.edu%2Fwp-content%2Fuploads%2F2015%2F08%2Fwladawskybergerwillthedigitalrevoltiondeliver.pdf&usg=AOvVaw0TwlYjr8i2RaNaQfOb50Qm)
-  - [Benefitting from the digital economy](Benefiting from the Digital Economy)
+  - [World Bank - Benefiting from the digital economy](https://openknowledge.worldbank.org/handle/10986/30926)
   - [EU: digitalisation for development - reducing poverty through technology](https://www.europarl.europa.eu/doceo/document/A-8-2018-0338_EN.pdf)
   - [How digital technology contributes to poverty reduction in China](http://www.cikd.org/English/detail?leafId=217&docId=1573)
   - [UN Expert Group meeting on eradicating rural poverty](https://www.un.org/development/desa/dspd/wp-content/uploads/sites/22/2019/04/DraftReport-EGM-Rural-Poverty2019.pdf)
