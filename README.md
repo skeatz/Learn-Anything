@@ -57,6 +57,7 @@
 - [Thingiverse Education](https://www.thingiverse.com/education)
 - [BE3D Academy](https://be3dacademy.ysoft.com/en/)
 - [Steam Universe](https://steamuniverse.com/Home.aspx)
+- [Design & Digital Fabrication](https://www.amtekcompany.com/teaching-engineering-design/)
 
 ## Books
 - [Meaningful Making](http://bit.ly/meaningfulmakingfile)
@@ -94,10 +95,16 @@
 - [Digitalisation - impact on future of work](https://www.businesstimes.com.sg/opinion/digitalisation-will-leave-an-impact-on-the-future-of-work)
 - [McKinsey - Jobs lost, jobs gained](https://www.mckinsey.com/featured-insights/future-of-work/jobs-lost-jobs-gained-what-the-future-of-work-will-mean-for-jobs-skills-and-wages#)
 - [McKinsey - Technology, jobs, and the future of work](https://www.mckinsey.com/featured-insights/employment-and-growth/technology-jobs-and-the-future-of-work)
+- [375m jobs to be displaced by 2030](https://www.technologymagazine.com/ai/375mn-jobs-be-displaced-automation-2030-mckinsey)
 - [WEF - Jobs will be very different in 10 years](https://www.weforum.org/agenda/2020/01/future-of-work/)
 - [Cisco/Oxford Economics - Technology & the future of Asean jobs](https://www.cisco.com/c/dam/global/en_sg/assets/csr/pdf/technology-and-the-future-of-asean-jobs.pdf)
 - [The scary & exciting future of jobs](https://www.straitstimes.com/opinion/the-scary-and-exciting-future-of-jobs)
+- [S'pore worst hit by job displacements](https://www.todayonline.com/singapore/spore-be-worst-hit-job-displacement-skills-mismatch-tech-disrupts-regions-labour-markets)
 - [EU - Digital Automation & the future of work](https://www.europarl.europa.eu/RegData/etudes/STUD/2021/656311/EPRS_STU(2021)656311_EN.pdf)
+- [ADB - Future of work: Regional perspectives](https://www.adb.org/sites/default/files/publication/481901/future-work-regional-perspectives.pdf)
+- [World Bank - Future of work: Race with, not against machines](http://documents1.worldbank.org/curated/en/626651535636984152/pdf/129680-BRI-PUBLIC-The-Future-of-Work-final.pdf)
+- [Digital Fabrication & Making in Education](https://tltlab.org/wp-content/uploads/2019/02/2013.Book-B.Digital.pdf)
+- [Hands-on Education through Digital Fabrication](https://3duniverse.org/2019/08/28/hands-on-education-through-digital-fabrication/)
 
 ## Singapore Sites w/DF Courses
 - [ITE - Introduction to Digital Fabrication](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-digital-fabrication)
