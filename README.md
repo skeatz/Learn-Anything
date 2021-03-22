@@ -91,6 +91,7 @@
 - [WEF - Jobs will be very different in 10 years](https://www.weforum.org/agenda/2020/01/future-of-work/)
 - [Cisco/Oxford Economics - Technology & the future of Asean jobs](https://www.cisco.com/c/dam/global/en_sg/assets/csr/pdf/technology-and-the-future-of-asean-jobs.pdf)
 - [The scary & exciting future of jobs](https://www.straitstimes.com/opinion/the-scary-and-exciting-future-of-jobs)
+- [EU - Digital Automation & the future of work](https://www.europarl.europa.eu/RegData/etudes/STUD/2021/656311/EPRS_STU(2021)656311_EN.pdf)
 
 ## Singapore Sites w/DF Courses
 - [ITE - Introduction to Digital Fabrication](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-digital-fabrication)
@@ -168,7 +169,7 @@
 - SP PACE (SSG supported) modules?
   - [Computer Aided Design & Digital Fabrication](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/computer-aided-design-digital-fabrication)
   - [Computer Controlled Machining](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/computer-controlled-machining)
-  - Smart Electronics & IoT (need to confirm name, info on my notebook back in SP)
+  - [Designing & Programming with Smart Electronics](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-register/designing-programming-with-smart-electronics)
 
 ## Craftsman/Engineer
 - [Fab Academy Diploma](http://fabacademy.org/about/program.html)
