@@ -85,6 +85,12 @@
   - [EU: digitalisation for development - reducing poverty through technology](https://www.europarl.europa.eu/doceo/document/A-8-2018-0338_EN.pdf)
   - [How digital technology contributes to poverty reduction in China](http://www.cikd.org/English/detail?leafId=217&docId=1573)
   - [UN Expert Group meeting on eradicating rural poverty](https://www.un.org/development/desa/dspd/wp-content/uploads/sites/22/2019/04/DraftReport-EGM-Rural-Poverty2019.pdf)
+- [Digitalisation - impact on future of work](https://www.businesstimes.com.sg/opinion/digitalisation-will-leave-an-impact-on-the-future-of-work)
+- [McKinsey - Jobs lost, jobs gained](https://www.mckinsey.com/featured-insights/future-of-work/jobs-lost-jobs-gained-what-the-future-of-work-will-mean-for-jobs-skills-and-wages#)
+- [McKinsey - Technology, jobs, and the future of work](https://www.mckinsey.com/featured-insights/employment-and-growth/technology-jobs-and-the-future-of-work)
+- [WEF - Jobs will be very different in 10 years](https://www.weforum.org/agenda/2020/01/future-of-work/)
+- [Cisco/Oxford Economics - Technology & the future of Asean jobs](https://www.cisco.com/c/dam/global/en_sg/assets/csr/pdf/technology-and-the-future-of-asean-jobs.pdf)
+- [The scary & exciting future of jobs](https://www.straitstimes.com/opinion/the-scary-and-exciting-future-of-jobs)
 
 ## Singapore Sites w/DF Courses
 - [ITE - Introduction to Digital Fabrication](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-digital-fabrication)
