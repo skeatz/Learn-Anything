@@ -191,14 +191,14 @@
 - module topics links:
   - [Digital Fabrication & Prototyping Fundamentals](ep1000.md)
   - [Further Digital Fabrication & Prototyping](ep1001.md)
-- re-structured modules:
-  - Digital Fabrication & Prototyping I
-  - Digital Fabrication & Prototyping II
-  - Digital Fabrication & Prototyping III 
 - SP PACE (SSG supported) modules?
   - [Computer Aided Design & Digital Fabrication](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/computer-aided-design-digital-fabrication)
   - [Computer Controlled Machining](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-roi/computer-controlled-machining)
   - [Designing & Programming with Smart Electronics](https://www.sp.edu.sg/pace/courses/course-type/short-modular/open-for-register/designing-programming-with-smart-electronics)
+- re-structured modules:
+  - Digital Fabrication & Prototyping I
+  - Digital Fabrication & Prototyping II
+  - Digital Fabrication & Prototyping III 
 
 ## Craftsman/Engineer
 - [Fab Academy Diploma](http://fabacademy.org/about/program.html)
