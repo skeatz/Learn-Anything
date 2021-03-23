@@ -106,10 +106,24 @@
 - [Digital Fabrication & Making in Education](https://tltlab.org/wp-content/uploads/2019/02/2013.Book-B.Digital.pdf)
 - [Hands-on Education through Digital Fabrication](https://3duniverse.org/2019/08/28/hands-on-education-through-digital-fabrication/)
 
-## Singapore Sites w/DF Courses
-- [ITE - Introduction to Digital Fabrication](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-digital-fabrication)
-- [ITE - Digital Fabrication for Prototyping](https://www.ite.edu.sg/courses/course-finder/course/coc-in-digital-fabrication-for-prototyping)
-- [Digital Fabrication Space at SSC](https://www.ite.edu.sg/courses/course-finder/course/coc-in-digital-fabrication-for-prototyping)
+## Singapore Sites & Courses
+- Courses
+  - [ITE - Introduction to Digital Fabrication](https://www.ite.edu.sg/courses/course-finder/course/coc-in-introduction-to-digital-fabrication)
+  - [ITE - Digital Fabrication for Prototyping](https://www.ite.edu.sg/courses/course-finder/course/coc-in-digital-fabrication-for-prototyping)
+  - [Digital Fabrication Space at SSC](https://www.ite.edu.sg/courses/course-finder/course/coc-in-digital-fabrication-for-prototyping)
+- Sites
+  - [Ngee Ann Polytechnic - Sandbox](https://www.np.edu.sg/thesandbox/makers/Pages/default.aspx)
+  - [Makerspace@TP](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwikz_e8rMXvAhWE7XMBHd8UBGIQwqsBMAN6BAgNEAM&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DzekvzkXi6Q4&usg=AOvVaw2F98STqvLAvoDhakLtNrL1)
+  - [Nanyang Polytechnic Makerspace](https://www.nyp.edu.sg/student-life/makerspace.html)
+  - [Republic Polytechnic - MakerSpace](https://www.rp.edu.sg/makerspace)
+  - [SUTD Fabrication Lab](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjwh-jurcXvAhVGgtgFHVPSAC0QwqsBMAd6BAgVEAM&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DV4u04glv4gY&usg=AOvVaw07_0ojubFQo7Pb5yiS4wK0)
+  - [NTU-HP Corporate Digital Manufacturing Corporate Lab](http://hp-ntucorplab.ntu.edu.sg/Pages/default.aspx)
+  - [Singapore Science Centre Digital Fabrication Space](https://www.science.edu.sg/stem-inc/digital-fabrication-space)
+  - [One Maker Group](https://www.onemakergroup.com/)
+  - [ITE Central Makerspace](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj-6Z7pr8XvAhU07nMBHd80AU0QFjABegQIAhAE&url=https%3A%2F%2Flibrary.ite.edu.sg%2FNews%2FArtMID%2F419%2FArticleID%2F1150%2FCE-Makerspace-Special&usg=AOvVaw1zjJ7_pE8IUQfoAZHOT9YJ)
+  - [Learner's Hub](https://learnershub.com/services/3d-printing-service/makerspace)
+  - [The Fab Lab](https://thefablabsg.com/)
+  - [Yale-NUS Fabrication Studio](https://mice.yale-nus.edu.sg/fabrication-studios/)
 
 # Programs
 ## Novice Learner
