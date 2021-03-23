@@ -124,6 +124,8 @@
   - [Learner's Hub](https://learnershub.com/services/3d-printing-service/makerspace)
   - [The Fab Lab](https://thefablabsg.com/)
   - [Yale-NUS Fabrication Studio](https://mice.yale-nus.edu.sg/fabrication-studios/)
+  - [Freeform Fablab](https://fablabs.io/labs/FreeForm)
+  - [Nexus International School](https://fablabs.io/labs/nexusinternationalschoolsingapore)
 
 # Programs
 ## Novice Learner
