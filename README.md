@@ -47,7 +47,7 @@
 ## Novice Learner
 - supervised learning
 - pedagogy: imitate
- 
+
 # References
 ## Sites
 - [Fab Academy](https://www.fabacademy.org)
@@ -85,18 +85,20 @@
 - [Digital Fabrication & the Future of Work](http://cba.mit.edu/docs/papers/19.01.POW.pdf)
 - [How Manufacturing can thrive in a digital world](https://www.weforum.org/agenda/2020/01/factories-of-the-future-innovation-manufacturing/)
 - [Digital Fabrication & the future of Architecture](https://designbuild.nridigital.com/design_build_review_apr20/arthur_mamou-mani_digital_fabrication_future_architecture)
+- [Overview of Digital Fabrication in Architecture](https://www.archdaily.com/940530/an-overview-of-digital-fabrication-in-architecture)
 - Poverty Alleviation
   - [Digitally Enabled Economic Transformation & Poverty Reduction](https://www.arup.com/perspectives/digital-fabrication-the-new-normal-east-asia)
   - [Will Digital Fabrication deliver for the World's Poor?](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjd-b7kpMPvAhVW7XMBHZErBDMQFjADegQIAxAD&url=https%3A%2F%2Fwww.brookings.edu%2Fwp-content%2Fuploads%2F2015%2F08%2Fwladawskybergerwillthedigitalrevoltiondeliver.pdf&usg=AOvVaw0TwlYjr8i2RaNaQfOb50Qm)
   - [World Bank - Benefiting from the digital economy](https://openknowledge.worldbank.org/handle/10986/30926)
   - [EU: digitalisation for development - reducing poverty through technology](https://www.europarl.europa.eu/doceo/document/A-8-2018-0338_EN.pdf)
   - [How digital technology contributes to poverty reduction in China](http://www.cikd.org/English/detail?leafId=217&docId=1573)
-  - [UN Expert Group meeting on eradicating rural poverty](https://www.un.org/development/desa/dspd/wp-content/uploads/sites/22/2019/04/DraftReport-EGM-Rural-Poverty2019.pdf)
+  - [UN Expert Group meeting on eradicating rural poverty](https://www.un.org/development/desa/dspd/wp-content/uploads/sites/22/2019/04/DraftReport-EGM-Rural-Poverty2019.pdf))
 - [Digitalisation - impact on future of work](https://www.businesstimes.com.sg/opinion/digitalisation-will-leave-an-impact-on-the-future-of-work)
 - [McKinsey - Jobs lost, jobs gained](https://www.mckinsey.com/featured-insights/future-of-work/jobs-lost-jobs-gained-what-the-future-of-work-will-mean-for-jobs-skills-and-wages#)
 - [McKinsey - Technology, jobs, and the future of work](https://www.mckinsey.com/featured-insights/employment-and-growth/technology-jobs-and-the-future-of-work)
 - [375m jobs to be displaced by 2030](https://www.technologymagazine.com/ai/375mn-jobs-be-displaced-automation-2030-mckinsey)
 - [WEF - Jobs will be very different in 10 years](https://www.weforum.org/agenda/2020/01/future-of-work/)
+- [WEF - Jobs of Tomorrow](https://www.weforum.org/reports/jobs-of-tomorrow-mapping-opportunity-in-the-new-economy)
 - [Cisco/Oxford Economics - Technology & the future of Asean jobs](https://www.cisco.com/c/dam/global/en_sg/assets/csr/pdf/technology-and-the-future-of-asean-jobs.pdf)
 - [The scary & exciting future of jobs](https://www.straitstimes.com/opinion/the-scary-and-exciting-future-of-jobs)
 - [S'pore worst hit by job displacements](https://www.todayonline.com/singapore/spore-be-worst-hit-job-displacement-skills-mismatch-tech-disrupts-regions-labour-markets)
@@ -105,6 +107,10 @@
 - [World Bank - Future of work: Race with, not against machines](http://documents1.worldbank.org/curated/en/626651535636984152/pdf/129680-BRI-PUBLIC-The-Future-of-Work-final.pdf)
 - [Digital Fabrication & Making in Education](https://tltlab.org/wp-content/uploads/2019/02/2013.Book-B.Digital.pdf)
 - [Hands-on Education through Digital Fabrication](https://3duniverse.org/2019/08/28/hands-on-education-through-digital-fabrication/)
+- [Is digital fabrication the future?]([https://www.barbourproductsearch.info/is-digital-fabrication-the-future-blog000295.html#:~:text=Because%20digital%20fabrication%20is%2C%20on,of%2Da%2Dkind%20product.](https://www.barbourproductsearch.info/is-digital-fabrication-the-future-blog000295.html#:~:text=Because digital fabrication is%2C on,of-a-kind product.))
+- [Digital fabrication benefits for small businesses](https://smallbiztrends.com/2018/05/digital-fabrication-benefits-small-business.html)
+- [How sustainable is digital fabrication](https://www.lowtechmagazine.com/2014/03/how-sustainable-is-digital-fabrication.html)
+- 
 
 ## Singapore Sites & Courses
 - Courses
