@@ -110,6 +110,10 @@
 - [Is digital fabrication the future?]([https://www.barbourproductsearch.info/is-digital-fabrication-the-future-blog000295.html#:~:text=Because%20digital%20fabrication%20is%2C%20on,of%2Da%2Dkind%20product.](https://www.barbourproductsearch.info/is-digital-fabrication-the-future-blog000295.html#:~:text=Because digital fabrication is%2C on,of-a-kind product.))
 - [Digital fabrication benefits for small businesses](https://smallbiztrends.com/2018/05/digital-fabrication-benefits-small-business.html)
 - [How sustainable is digital fabrication](https://www.lowtechmagazine.com/2014/03/how-sustainable-is-digital-fabrication.html)
+- [ST - Singapore faces talent crunch](https://www.straitstimes.com/business/economy/singapore-faces-talent-crunch-as-tech-giants-scale-up)
+- [ST - Talent Crunch](https://www.straitstimes.com/business/tech-firms-hiring-varsity-students-to-beat-talent-crunch)
+- [Fablabs & UN SDG: working group](https://projects.fablabs.io/+fablabs-sdgs/fab-labs-and-sdgs)
+- [How to align Fablab with UN SDG](https://www.instructables.com/How-to-Align-Your-Fab-Lab-Makerspace-With-the-UN-S/)
 - 
 
 ## Singapore Sites & Courses

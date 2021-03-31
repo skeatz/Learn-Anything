@@ -2,6 +2,11 @@
 
 # What is Digital Fabrication
 
+## Digital Fabrication
+
+- [Digital Fabrication is MORE than 3D Printing](https://www.wired.co.uk/article/digital-fabrication)
+- [How to Make Almost Anything](http://cba.mit.edu/docs/papers/12.09.FA.pdf)
+
 ## [Digital Modeling & Fabrication](https://en.wikipedia.org/wiki/Digital_modeling_and_fabrication)
 
 - design and production process that combines
@@ -34,7 +39,7 @@
   - encourages creativity and customization
   - personalized  vs mass production
 
-## [What do people learn from using digital fabrication tools]([https://www.barbourproductsearch.info/is-digital-fabrication-the-future-blog000295.html#:~:text=Because%20digital%20fabrication%20is%2C%20on,of%2Da%2Dkind%20product.](https://www.barbourproductsearch.info/is-digital-fabrication-the-future-blog000295.html#:~:text=Because digital fabrication is%2C on,of-a-kind product.))
+## [What do people learn from using digital fabrication tools](https://fablearn.stanford.edu/fellows/blog/what-do-people-learn-using-digital-fabrication-tools)
 
 - merging of human with technical
 - students develop multiple skills:
@@ -45,7 +50,9 @@
   - promotes curiosity-driven, self-directed creative learning
 - Skills-based learning that occurs in digital fabrication
 
-![skills-based learning in digital fabrication](/home/chewlk/Documents/fablab/workplan/learn anything/Learn-Anything/fablearn-dfskills.png)
+![skills-based learning in digital fabrication](D:\fablab\workplan\learn-anything\Learn-Anything\fablearn-dfskills.png)
+
+
 
 - Real-world skills with applications in engineering, art, design, science, computer science and math
 - culture of makerspace helps students become independent learners, driven by curiosity and intrinsic motivation:
@@ -86,5 +93,16 @@
 
 
 
+## What can Students Do?
+
+- Jack's project
+- Christopher's project
+- Fab Academy diploma projects
 
 
+
+## ASEAN Regional Fablab Network
+
+- what it is
+- benefits to Singapore
+- benefits to SP
