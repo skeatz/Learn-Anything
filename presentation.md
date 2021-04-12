@@ -95,11 +95,16 @@
 
 ## What can Students Do?
 
-- Jack's project
-- Christopher's project
-- Fab Academy diploma projects
+- [EP1000 Jack Gao](https://gaoshengyuanjack.github.io/ep1000-jackgao/) [slide](https://www.youtube.com/watch?v=KM8nBzfPcBk) [video](https://www.youtube.com/watch?v=KM8nBzfPcBk)
+- [EP1001 Christopher Teng](https://eatpoopandgrowstrong.github.io/FDFAB/hub/) [slide](https://eatpoopandgrowstrong.github.io/FDFAB/hub/MODULEPROJECT/mp.html) [video](https://eatpoopandgrowstrong.github.io/FDFAB/hub/MODULEPROJECT/mp.html)
+- Fab Academy Diploma
+  - [Train model](http://fabacademy.org/2020/labs/leon/students/adrian-torres/finalproject.html) [slide](http://fabacademy.org/2020/labs/leon/students/adrian-torres/presentation.png) [video](http://fabacademy.org/2020/labs/leon/students/adrian-torres/presentation.mp4)
+  - [Automated indoor hanging garden](http://fabacademy.org/2019/labs/berytech/students/nagi-abdelnour/final%20project.html) [slide](http://fabacademy.org/2019/labs/berytech/students/nagi-abdelnour/presentation.png) [video](http://fabacademy.org/2019/labs/berytech/students/nagi-abdelnour/presentation.mp4)
+  - [FabWheel](http://archive.fabacademy.org/2017/fablabtrivandrum/students/312/project04.html) [slide](http://archive.fabacademy.org/2017/fablabtrivandrum/students/312/presentation.png) [video](http://archive.fabacademy.org/2017/fablabtrivandrum/students/312/presentation.mp4)
+  - [Aquapioneers](http://archive.fabacademy.org/archives/2016/greenfablab/students/365/project03.html) [slide](http://archive.fabacademy.org/archives/2016/greenfablab/students/365/presentation.png) [video](http://archive.fabacademy.org/archives/2016/greenfablab/students/365/presentation.mp4)
+  - [Smart Earrings](http://fab.academany.org/2020/labs/kamakura/students/toshiki-tsuchiyama/projects/lightingaccesories/) [slide](http://fab.academany.org/2020/labs/kamakura/students/toshiki-tsuchiyama/presentation.png) [video](http://fab.academany.org/2020/labs/kamakura/students/toshiki-tsuchiyama/presentation.mp4)
 
-
+- [More projects](http://academy.cba.mit.edu/classes/applications_implications/index.html)
 
 ## ASEAN Regional Fablab Network
 
