@@ -50,12 +50,12 @@
   - promotes curiosity-driven, self-directed creative learning
 - Skills-based learning that occurs in digital fabrication
 
-![skills-based learning in digital fabrication](D:\fablab\workplan\learn-anything\Learn-Anything\fablearn-dfskills.png)
+![skills-based learning in digital fabrication](fablearn-dfskills.png)
 
 
 
 - Real-world skills with applications in engineering, art, design, science, computer science and math
-- culture of makerspace helps students become independent learners, driven by curiosity and intrinsic motivation:
+- culture of Makerspace helps students become independent learners, driven by curiosity and intrinsic motivation:
   - I can teach myself to do this
   - I can seek help to troubleshoot problems
   - I can teach others to do this
@@ -108,6 +108,62 @@
 
 ## ASEAN Regional Fablab Network
 
-- what it is
-- benefits to Singapore
-- benefits to SP
+### Background
+
+- SE Asia has combined population of 690 million people, majority living in rural, under-served communities
+- By making knowledge & technologies available, fablabs promote democratized access to innovation and entrepreneurship, reducing the inequality gap
+- Setting up an ASEAN Regional Fablab Network, consisting of many local/community fablabs, supported by standard fablabs and a superfablab will allow us to:
+  - provide bridge between fablabs, industry and community
+  - share best practices
+  - foster innovation, co-creation and entrepreneurship
+  - supports poverty reduction and closes inequality gap
+  - empowers disadvantaged individuals and communities
+
+### Fablabs Impacting Local Communities
+
+- Vigyan Ashram (India): work centric education, enterprise development, rural technology
+- Fablab Bohol (Philippines): plastic recycling into products, souvenirs using local materials
+- Fablab la Campana (Mexico): empowering marginalized community through STEAM-rich making and learning
+- Greenlab Microfactory (Nigeria): open-source solar power for community, STEM education
+- Fablab Nairobi (Kenya): design & build medical devices for Kenyatta National Hospital - phototherapy machine, patient monitor, vacuum delivery machine, infant incubator, etc.
+
+### Fablabs and UN SDG
+
+- importance of science and technology in helping to achieve SDGs
+- key principles of 2030 Agenda:
+  - Ensuring that no one is left behind
+  - technology gaps between countries and groups is an issue of concern
+  - new technologies, e.g. big data, IoT, 3D printing, digital fabrication, digital automation widens existing inequalities
+
+### Fablabs in ASEAN Countries
+
+![Fablabs in Asean](asean-fablabs.png)
+
+### ASEAN Regional Fablab Network Proposal
+
+- Asean Regional Fablab Network HQ (Fablab Singapore Polytechnic)
+  - coordinates member fablabs within the network
+  - reaching out to funding agencies (e.g. TF, ADB)
+  - administering funds sourced by Fablab SP & partners
+  - organizing and conducting digital fabrication training (instructor bootcamps)
+  - offer Fab Academy Diploma training
+  - assist in setting up country super fablab and training managers, instructors
+  - organize annual event for member fablabs to meet, network and share best practices
+  - manage and conduct digital fabrication training
+- Country Super Fablab
+  - manage equipment, facilities and access for super fablab
+  - local coordination for community fablabs in the country
+  - conduct training for managers & instructors in community fablabs
+  - identify under-served communities & assist in setting up community fablabs
+  - identify fablab instructors for digital fabrication training by regional HQ
+  - reaching out to country funding agencies and administering sourced funds
+  - work with communities & local industries to identify needs, raining requirements and projects
+  - organize events and activities for member fablabs in the country
+  - mentor & provide first level support for community fablabs in the country
+- Community Fablab
+  - manage equipment, facilities and access for community fablab
+  - organize workshops and relevant digital fabrication training for the community
+  - work with local community and MSMEs to determine needs, identify projects and opportunities to uplift the community
+  - identify instructors for digital fabrication training at country super fablab
+  - organize events and activities for local community to showcase benefits and applications of digital fabrication
+  - grow the local maker community
