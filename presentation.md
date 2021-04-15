@@ -30,7 +30,7 @@
 
 # Why is Digital Fabrication Important?
 
-## [Digital fabrication is the future](https://www.barbourproductsearch.info/is-digital-fabrication-the-future-blog000295.html#:~:text=Because digital fabrication is%2C on,of-a-kind product.)
+## [Digital fabrication is the future](https://www.barbourproductsearch.info/is-digital-fabrication-the-future-blog000295.html#)
 
 - digital fabrication offers a vast array of benefits for both manufacturers and customers
 - faster and cheaper process:
