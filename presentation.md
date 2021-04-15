@@ -95,7 +95,7 @@
 
 ## What can Students Do?
 
-- [EP1000 Jack Gao](https://gaoshengyuanjack.github.io/ep1000-jackgao/) [slide](https://www.youtube.com/watch?v=KM8nBzfPcBk) [video](https://www.youtube.com/watch?v=KM8nBzfPcBk)
+- [EP1000 Jack Gao](https://gaoshengyuanjack.github.io/ep1000-jackgao/) [slide](https://docs.google.com/presentation/d/1Yu57zoK7tsa2V47o5Xf-M6jEp85uxD6j372LhHmbF8U/edit#slide=id.p) [video](https://www.youtube.com/watch?v=KM8nBzfPcBk)
 - [EP1001 Christopher Teng](https://eatpoopandgrowstrong.github.io/FDFAB/hub/) [slide](https://eatpoopandgrowstrong.github.io/FDFAB/hub/MODULEPROJECT/mp.html) [video](https://eatpoopandgrowstrong.github.io/FDFAB/hub/MODULEPROJECT/mp.html)
 - Fab Academy Diploma
   - [Train model](http://fabacademy.org/2020/labs/leon/students/adrian-torres/finalproject.html) [slide](http://fabacademy.org/2020/labs/leon/students/adrian-torres/presentation.png) [video](http://fabacademy.org/2020/labs/leon/students/adrian-torres/presentation.mp4)
