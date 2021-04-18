@@ -67,6 +67,7 @@
 - [Foreign Affairs Paper](http://cba.mit.edu/docs/papers/12.09.FA.pdf)
 - [Fablab Guide](https://issuu.com/j_johns/docs/bu_fablabs_document_final?e=35968760/66510214)
 - [Makerbot Educators Guidebook](https://www.makerbot.com/stories/3d-printing-education/educators-guidebook-full-version-free-download/)
+- [EU Fabreads (collection)](http://www.fablabnet.net/fabreads/)
 
 ## What is Digital Fabrication?
 - [The future of digital fabrication](https://www.youtube.com/watch?v=TggiXmhmDmM&feature=emb_logo)
@@ -114,6 +115,30 @@
 - [ST - Talent Crunch](https://www.straitstimes.com/business/tech-firms-hiring-varsity-students-to-beat-talent-crunch)
 - [Fablabs & UN SDG: working group](https://projects.fablabs.io/+fablabs-sdgs/fab-labs-and-sdgs)
 - [How to align Fablab with UN SDG](https://www.instructables.com/How-to-Align-Your-Fab-Lab-Makerspace-With-the-UN-S/)
+- [Fablabs - Tools for sustainable development](https://sustainabledevelopment.un.org/content/documents/640994-Gadjanski-Fablabs.pdf)
+- [First Peoples Innovation Centre](https://cipp-fpic.com/en/fpic)
+- [Fablabs share stories of passion, innovation](https://blogs.solidworks.com/teacher/2014/07/fablabs-share-stories-of-innovation-passion-and-education.html)
+- 
+
+## Commercialization/Productization
+
+- [Proper use of Fablabs for startups](https://www.santarelli.com/en/proper-use-fablabs-startups/)
+- [Interreg - Capacity building of Fablabs](http://fablabnet.net/wp-content/uploads/2017/12/CE283_FabLabNet_DT1.3.1JOINT-GoodPractice_Dec2017.pdf)
+- [Urban Manufacturing - Collaborative makerspace case study](https://www.interregeurope.eu/fileadmin/user_upload/tx_tevprojects/library/file_1552901869.pdf)
+- [Creative community spaces](https://openknowledge.worldbank.org/bitstream/handle/10986/28329/117300-WP-P158681-PUBLIC-Creative-Community-Spaces.txt?sequence=2&isAllowed=y)
+- [Sabah - Science ministry sets up Fablabs for all Researchers](https://www.dailysabah.com/business/2015/06/25/science-ministry-to-set-up-fablabs-for-all-researchers)
+- [Kochi - Covid ventilator](https://www.newindianexpress.com/cities/kochi/2020/apr/02/ventilator-developed-by-super-fab-lab-ready-for-trial-production--2124459.html)
+- [Global Innovation Exchange](https://www.globalinnovationexchange.org/?utm_source=legacy-site&utm_medium=popup&utm_campaign=2018.03)
+- [Kenyatta National Hospital - baby incubator](http://www.eu.globalinnovationexchange.org/innovations/maker-movement-maker)
+
+## Smart Nation, Industry 4.0
+
+- [Forbes - What is Industry 4.0](https://www.forbes.com/sites/bernardmarr/2018/09/02/what-is-industry-4-0-heres-a-super-easy-explanation-for-anyone/?sh=7f68c9ab9788)
+- [Epicor - Industrial Internet of Things](https://www.epicor.com/en-sg/resource-center/articles/what-is-industry-4-0/)
+- [I-Scoop - Industry 4.0](https://www.i-scoop.eu/industry-4-0/)
+- [Barcelona - the Fablab Smart City](https://www.wired.com/2012/03/barcelona-the-fab-lab-smart-city/)
+- [Top 50 Smart City Goverment Rankings](https://www.smartcitygovt.com/)
+- [Fab City Global Initiative](https://fab.city/)
 - 
 
 ## Singapore Sites & Courses
