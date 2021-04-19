@@ -58,7 +58,6 @@
 - [BE3D Academy](https://be3dacademy.ysoft.com/en/)
 - [Steam Universe](https://steamuniverse.com/Home.aspx)
 - [Design & Digital Fabrication](https://www.amtekcompany.com/teaching-engineering-design/)
-- [wef jobs of tomorrow]()
 
 ## Books
 - [Meaningful Making](http://bit.ly/meaningfulmakingfile)
