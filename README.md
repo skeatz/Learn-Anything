@@ -58,6 +58,7 @@
 - [BE3D Academy](https://be3dacademy.ysoft.com/en/)
 - [Steam Universe](https://steamuniverse.com/Home.aspx)
 - [Design & Digital Fabrication](https://www.amtekcompany.com/teaching-engineering-design/)
+- [wef jobs of tomorrow]()
 
 ## Books
 - [Meaningful Making](http://bit.ly/meaningfulmakingfile)
@@ -93,13 +94,14 @@
   - [World Bank - Benefiting from the digital economy](https://openknowledge.worldbank.org/handle/10986/30926)
   - [EU: digitalisation for development - reducing poverty through technology](https://www.europarl.europa.eu/doceo/document/A-8-2018-0338_EN.pdf)
   - [How digital technology contributes to poverty reduction in China](http://www.cikd.org/English/detail?leafId=217&docId=1573)
-  - [UN Expert Group meeting on eradicating rural poverty](https://www.un.org/development/desa/dspd/wp-content/uploads/sites/22/2019/04/DraftReport-EGM-Rural-Poverty2019.pdf))
+  - [UN Expert Group meeting on eradicating rural poverty](https://www.un.org/development/desa/dspd/wp-content/uploads/sites/22/2019/04/DraftReport-EGM-Rural-Poverty2019.pdf)
 - [Digitalisation - impact on future of work](https://www.businesstimes.com.sg/opinion/digitalisation-will-leave-an-impact-on-the-future-of-work)
 - [McKinsey - Jobs lost, jobs gained](https://www.mckinsey.com/featured-insights/future-of-work/jobs-lost-jobs-gained-what-the-future-of-work-will-mean-for-jobs-skills-and-wages#)
 - [McKinsey - Technology, jobs, and the future of work](https://www.mckinsey.com/featured-insights/employment-and-growth/technology-jobs-and-the-future-of-work)
 - [375m jobs to be displaced by 2030](https://www.technologymagazine.com/ai/375mn-jobs-be-displaced-automation-2030-mckinsey)
 - [WEF - Jobs will be very different in 10 years](https://www.weforum.org/agenda/2020/01/future-of-work/)
 - [WEF - Jobs of Tomorrow](https://www.weforum.org/reports/jobs-of-tomorrow-mapping-opportunity-in-the-new-economy)
+- [WEF - Future of Jobs (Infographics)](https://www.weforum.org/reports/the-future-of-jobs-report-2020/in-full/infographics-e4e69e4de7)
 - [Cisco/Oxford Economics - Technology & the future of Asean jobs](https://www.cisco.com/c/dam/global/en_sg/assets/csr/pdf/technology-and-the-future-of-asean-jobs.pdf)
 - [The scary & exciting future of jobs](https://www.straitstimes.com/opinion/the-scary-and-exciting-future-of-jobs)
 - [S'pore worst hit by job displacements](https://www.todayonline.com/singapore/spore-be-worst-hit-job-displacement-skills-mismatch-tech-disrupts-regions-labour-markets)
@@ -118,7 +120,7 @@
 - [Fablabs - Tools for sustainable development](https://sustainabledevelopment.un.org/content/documents/640994-Gadjanski-Fablabs.pdf)
 - [First Peoples Innovation Centre](https://cipp-fpic.com/en/fpic)
 - [Fablabs share stories of passion, innovation](https://blogs.solidworks.com/teacher/2014/07/fablabs-share-stories-of-innovation-passion-and-education.html)
-- 
+- [McKinsey - Impact of Automation](https://www.mckinsey.com/%7E/media/McKinsey/Locations/Asia/Singapore/Our%20insights/Automation%20DY/Automation%20DY.ashx)
 
 ## Commercialization/Productization
 
