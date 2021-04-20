@@ -120,6 +120,8 @@
 - [First Peoples Innovation Centre](https://cipp-fpic.com/en/fpic)
 - [Fablabs share stories of passion, innovation](https://blogs.solidworks.com/teacher/2014/07/fablabs-share-stories-of-innovation-passion-and-education.html)
 - [McKinsey - Impact of Automation](https://www.mckinsey.com/%7E/media/McKinsey/Locations/Asia/Singapore/Our%20insights/Automation%20DY/Automation%20DY.ashx)
+- [WEF - Skills, not Degrees](https://www.weforum.org/agenda/2020/09/reckoning-for-skills/)
+- 
 
 ## Commercialization/Productization
 
@@ -131,6 +133,9 @@
 - [Kochi - Covid ventilator](https://www.newindianexpress.com/cities/kochi/2020/apr/02/ventilator-developed-by-super-fab-lab-ready-for-trial-production--2124459.html)
 - [Global Innovation Exchange](https://www.globalinnovationexchange.org/?utm_source=legacy-site&utm_medium=popup&utm_campaign=2018.03)
 - [Kenyatta National Hospital - baby incubator](http://www.eu.globalinnovationexchange.org/innovations/maker-movement-maker)
+- [MTM Snap - The Other Mill - Bantam Tools](https://mtm.cba.mit.edu/2011/2011_mtm-snap/mtm_snap-lock/index.html), [Bantam PCB Mill](https://www.bantamtools.com/pcb-milling-machine)
+- [Fablab CBA - Shaper Origin](https://www.shapertools.com/en-us/blog/posts/the-origin-of-shaper)
+- [Fablab Ultrecht - Ultimaker 3D Printer](https://www.3ders.org/articles/20120607-a-visit-to-ultimaker-%20this-is-an-awesome-box.html)
 
 ## Smart Nation, Industry 4.0
 

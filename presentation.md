@@ -77,7 +77,8 @@
 
 ![Job Displacement ASEAN-6](asean-6_job-displacement.jpg)
 
-
+- [McKinsey - Impact of Automation](https://www.mckinsey.com/%7E/media/McKinsey/Locations/Asia/Singapore/Our%20insights/Automation%20DY/Automation%20DY.ashx)
+- [WEF - Skills, not Degrees](https://www.weforum.org/agenda/2020/09/reckoning-for-skills/)
 
 ## [Fablab](https://fablabs.io/)
 
@@ -103,8 +104,16 @@
   - [FabWheel](http://archive.fabacademy.org/2017/fablabtrivandrum/students/312/project04.html) [slide](http://archive.fabacademy.org/2017/fablabtrivandrum/students/312/presentation.png) [video](http://archive.fabacademy.org/2017/fablabtrivandrum/students/312/presentation.mp4)
   - [Aquapioneers](http://archive.fabacademy.org/archives/2016/greenfablab/students/365/project03.html) [slide](http://archive.fabacademy.org/archives/2016/greenfablab/students/365/presentation.png) [video](http://archive.fabacademy.org/archives/2016/greenfablab/students/365/presentation.mp4)
   - [Smart Earrings](http://fab.academany.org/2020/labs/kamakura/students/toshiki-tsuchiyama/projects/lightingaccesories/) [slide](http://fab.academany.org/2020/labs/kamakura/students/toshiki-tsuchiyama/presentation.png) [video](http://fab.academany.org/2020/labs/kamakura/students/toshiki-tsuchiyama/presentation.mp4)
-
 - [More projects](http://academy.cba.mit.edu/classes/applications_implications/index.html)
+
+## Commercialization
+
+- [Kochi - Covid ventilator](https://www.newindianexpress.com/cities/kochi/2020/apr/02/ventilator-developed-by-super-fab-lab-ready-for-trial-production--2124459.html)
+- [Global Innovation Exchange](https://www.globalinnovationexchange.org/?utm_source=legacy-site&utm_medium=popup&utm_campaign=2018.03)
+- [Kenyatta National Hospital - baby incubator](http://www.eu.globalinnovationexchange.org/innovations/maker-movement-maker)
+- [MTM Snap - The Other Mill - Bantam Tools](https://mtm.cba.mit.edu/2011/2011_mtm-snap/mtm_snap-lock/index.html), [Bantam PCB Mill](https://www.bantamtools.com/pcb-milling-machine)
+- [Fablab CBA - Shaper Origin](https://www.shapertools.com/en-us/blog/posts/the-origin-of-shaper)
+- [Fablab Ultrecht - Ultimaker 3D Printer](https://www.3ders.org/articles/20120607-a-visit-to-ultimaker-%20this-is-an-awesome-box.html)
 
 ## ASEAN Regional Fablab Network
 
