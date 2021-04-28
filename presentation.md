@@ -167,3 +167,28 @@
   - identify instructors for digital fabrication training at country super fablab
   - organize events and activities for local community to showcase benefits and applications of digital fabrication
   - grow the local maker community
+
+### Visioning Exercise
+
+- SP Headcount (HC)
+  - Current: 1 Admin + 2 Acad + 4 TE
+  - What is correct ratio? 1 Admin + 4 Acad + 2 TE?
+  - What is correct HC for current roles?
+- Fablab SP value proposition
+  - interdisciplinary mindset
+  - digital fabrication expertise (vs schools)
+  - practical (hands-on) experiential learning
+  - facilitates prototyping of ideas
+  - spurs innovation & creativity
+  - operates in STEAMD space
+  - discipline agnostic (vs SILO approach)
+  - integration of multiple disciplines
+  - co-creation & capacity building
+- Current role in SP
+  - provides equipment & facilities (DIY approach)
+  - co-teach SP modules
+  - conducts CET
+  - staff consultancy projects (SP & external)
+  - student project consultation
+- **we are operating  beyond expectations for present HC**
+- what should be our **focus** for next 5 years? long term?

@@ -118,7 +118,7 @@
 - [Fablabs - Tools for sustainable development](https://sustainabledevelopment.un.org/content/documents/640994-Gadjanski-Fablabs.pdf)
 - [First Peoples Innovation Centre](https://cipp-fpic.com/en/fpic)
 - [Fablabs share stories of passion, innovation](https://blogs.solidworks.com/teacher/2014/07/fablabs-share-stories-of-innovation-passion-and-education.html)
-- 
+- [Interreg - Fablabs & MakerSpaces](https://www.interregeurope.eu/policylearning/news/11466/fablabs-and-makerspaces/)
 
 ## Commercialization/Productization
 
