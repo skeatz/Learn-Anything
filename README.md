@@ -93,13 +93,14 @@
   - [World Bank - Benefiting from the digital economy](https://openknowledge.worldbank.org/handle/10986/30926)
   - [EU: digitalisation for development - reducing poverty through technology](https://www.europarl.europa.eu/doceo/document/A-8-2018-0338_EN.pdf)
   - [How digital technology contributes to poverty reduction in China](http://www.cikd.org/English/detail?leafId=217&docId=1573)
-  - [UN Expert Group meeting on eradicating rural poverty](https://www.un.org/development/desa/dspd/wp-content/uploads/sites/22/2019/04/DraftReport-EGM-Rural-Poverty2019.pdf))
+  - [UN Expert Group meeting on eradicating rural poverty](https://www.un.org/development/desa/dspd/wp-content/uploads/sites/22/2019/04/DraftReport-EGM-Rural-Poverty2019.pdf)
 - [Digitalisation - impact on future of work](https://www.businesstimes.com.sg/opinion/digitalisation-will-leave-an-impact-on-the-future-of-work)
 - [McKinsey - Jobs lost, jobs gained](https://www.mckinsey.com/featured-insights/future-of-work/jobs-lost-jobs-gained-what-the-future-of-work-will-mean-for-jobs-skills-and-wages#)
 - [McKinsey - Technology, jobs, and the future of work](https://www.mckinsey.com/featured-insights/employment-and-growth/technology-jobs-and-the-future-of-work)
 - [375m jobs to be displaced by 2030](https://www.technologymagazine.com/ai/375mn-jobs-be-displaced-automation-2030-mckinsey)
 - [WEF - Jobs will be very different in 10 years](https://www.weforum.org/agenda/2020/01/future-of-work/)
 - [WEF - Jobs of Tomorrow](https://www.weforum.org/reports/jobs-of-tomorrow-mapping-opportunity-in-the-new-economy)
+- [WEF - Future of Jobs (Infographics)](https://www.weforum.org/reports/the-future-of-jobs-report-2020/in-full/infographics-e4e69e4de7)
 - [Cisco/Oxford Economics - Technology & the future of Asean jobs](https://www.cisco.com/c/dam/global/en_sg/assets/csr/pdf/technology-and-the-future-of-asean-jobs.pdf)
 - [The scary & exciting future of jobs](https://www.straitstimes.com/opinion/the-scary-and-exciting-future-of-jobs)
 - [S'pore worst hit by job displacements](https://www.todayonline.com/singapore/spore-be-worst-hit-job-displacement-skills-mismatch-tech-disrupts-regions-labour-markets)
@@ -118,7 +119,13 @@
 - [Fablabs - Tools for sustainable development](https://sustainabledevelopment.un.org/content/documents/640994-Gadjanski-Fablabs.pdf)
 - [First Peoples Innovation Centre](https://cipp-fpic.com/en/fpic)
 - [Fablabs share stories of passion, innovation](https://blogs.solidworks.com/teacher/2014/07/fablabs-share-stories-of-innovation-passion-and-education.html)
+<<<<<<< HEAD
 - [Interreg - Fablabs & MakerSpaces](https://www.interregeurope.eu/policylearning/news/11466/fablabs-and-makerspaces/)
+=======
+- [McKinsey - Impact of Automation](https://www.mckinsey.com/%7E/media/McKinsey/Locations/Asia/Singapore/Our%20insights/Automation%20DY/Automation%20DY.ashx)
+- [WEF - Skills, not Degrees](https://www.weforum.org/agenda/2020/09/reckoning-for-skills/)
+- 
+>>>>>>> be4586277af74753bf890f44211c91a0b2c428d2
 
 ## Commercialization/Productization
 
@@ -130,6 +137,9 @@
 - [Kochi - Covid ventilator](https://www.newindianexpress.com/cities/kochi/2020/apr/02/ventilator-developed-by-super-fab-lab-ready-for-trial-production--2124459.html)
 - [Global Innovation Exchange](https://www.globalinnovationexchange.org/?utm_source=legacy-site&utm_medium=popup&utm_campaign=2018.03)
 - [Kenyatta National Hospital - baby incubator](http://www.eu.globalinnovationexchange.org/innovations/maker-movement-maker)
+- [MTM Snap - The Other Mill - Bantam Tools](https://mtm.cba.mit.edu/2011/2011_mtm-snap/mtm_snap-lock/index.html), [Bantam PCB Mill](https://www.bantamtools.com/pcb-milling-machine)
+- [Fablab CBA - Shaper Origin](https://www.shapertools.com/en-us/blog/posts/the-origin-of-shaper)
+- [Fablab Ultrecht - Ultimaker 3D Printer](https://www.3ders.org/articles/20120607-a-visit-to-ultimaker-%20this-is-an-awesome-box.html)
 
 ## Smart Nation, Industry 4.0
 
