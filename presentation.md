@@ -96,8 +96,9 @@
 
 ## What can Students Do?
 
-- [EP1000 Jack Gao](https://gaoshengyuanjack.github.io/ep1000-jackgao/) [slide](https://docs.google.com/presentation/d/1Yu57zoK7tsa2V47o5Xf-M6jEp85uxD6j372LhHmbF8U/edit#slide=id.p) [video](https://www.youtube.com/watch?v=KM8nBzfPcBk)
-- [EP1001 Christopher Teng](https://eatpoopandgrowstrong.github.io/FDFAB/hub/) [slide](https://eatpoopandgrowstrong.github.io/FDFAB/hub/MODULEPROJECT/mp.html) [video](https://eatpoopandgrowstrong.github.io/FDFAB/hub/MODULEPROJECT/mp.html)
+- [EP1000 Marcus Chia](https://marcuschia-03.github.io/DFAB-EP1000_v2/Module_Project.html) [slide](https://raw.githubusercontent.com/MarcusChia-03/DFAB-EP1000_v2/main/images/FinalPrj_Poster.jpg) [video](https://www.youtube.com/watch?v=z-OTc1dQGxY)
+- [EP1001 Yew Zi Hon](https://yewzihon.github.io/EP1001/) [slide](https://yewzihon.github.io/EP1001/finalPro.html#slide) [video](https://yewzihon.github.io/EP1001/finalPro.html#video)
+- [EP1001 Marcus Chia](https://marcuschia-03.github.io/FurtherDFAB-EP1001/Home.html) [slide](https://raw.githubusercontent.com/MarcusChia-03/FurtherDFAB-EP1001/main/EP1001_Poster.png) [video](https://www.youtube.com/watch?v=9s01-VqzENY)
 - Fab Academy Diploma
   - [Train model](http://fabacademy.org/2020/labs/leon/students/adrian-torres/finalproject.html) [slide](http://fabacademy.org/2020/labs/leon/students/adrian-torres/presentation.png) [video](http://fabacademy.org/2020/labs/leon/students/adrian-torres/presentation.mp4)
   - [Automated indoor hanging garden](http://fabacademy.org/2019/labs/berytech/students/nagi-abdelnour/final%20project.html) [slide](http://fabacademy.org/2019/labs/berytech/students/nagi-abdelnour/presentation.png) [video](http://fabacademy.org/2019/labs/berytech/students/nagi-abdelnour/presentation.mp4)
